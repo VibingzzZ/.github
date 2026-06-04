@@ -34,7 +34,7 @@
 
 -  Email: 2509094405@qq.com
 <!---  Discord/微信群: [社群链接] -->
--  团队博客/主页:[ [队员1博客](https://blog.csdn.net/anonymous_zb)
+-  团队博客/主页: [队员1博客](https://blog.csdn.net/anonymous_zb)
 
 <div align="center">
   <!--  底部波浪分割线 -->
