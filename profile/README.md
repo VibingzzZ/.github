@@ -28,7 +28,7 @@
 | 项目名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | ️ 制作中 |
-| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *七牛云* | ️ 功能开发完善中 |
+| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *七牛云* | ️ 完成最小MVP |
 
 ##  加入我们 / 联系我们
 如果你也是热爱编程、享受极限开发节奏的开发者，欢迎与我们交流！
