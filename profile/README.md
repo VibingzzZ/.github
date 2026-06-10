@@ -20,15 +20,17 @@
 -  **技术探索**：在比赛中尝试前沿技术栈，以赛代练，突破自我。
 
 ##  当前状态
-> **备赛 / 开发中...** 
-> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=备赛/开发中...;" alt="Typing SVG" />
+</div>
+
 > 我们正在紧锣密鼓地筹备中国软件杯比赛项目，敬请期待！
 
 ##  项目目录 (Coming Soon)
 | 项目名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | ️ 制作中 |
-| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *七牛云* | ️ 完成最小MVP |
+| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | ️ 完成最小MVP |
 
 ##  加入我们 / 联系我们
 如果你也是热爱编程、享受极限开发节奏的开发者，欢迎与我们交流！
