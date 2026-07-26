@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=备赛/开发中...;" alt="Typing SVG" />
 </div>
 
-> 我们正在紧锣密鼓地筹备中国软件杯比赛项目，敬请期待！
+> 我们正在紧锣密鼓地筹备985Fitness项目...
 
 ##  项目目录 (Coming Soon)
 | 项目名称 | 描述 | 状态 |
