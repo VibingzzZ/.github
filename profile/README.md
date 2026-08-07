@@ -31,7 +31,7 @@
 | :--- | :--- | :--- |
 | [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | ️ 完成题目的主要要求，等待结果ing |
 | [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | ️ 完成最小MVP |
-| 985Fitness | *健身小程序* | ️ 规划中 |
+| [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | ️ 规划中 |
 
 ##  加入我们 / 联系我们
 如果你也是热爱编程、享受极限开发节奏的开发者，欢迎与我们交流！
