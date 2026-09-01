@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | 完成题目的主要要求，落选 |
 | [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | 完成最小 MVP |
-| [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 完成最小 MVP v1.0，等待上级审核，准备 v2.0 |
+| [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 因成本原因夭折，后续计划放到服务器试玩|
 | [*share_platform*] | *组织博客* | 制作第一版样品 | 
 
 ## 团队博客
