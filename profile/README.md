@@ -54,7 +54,7 @@
 ## 加入我们 / 联系我们
 
 如果你也是热爱编程、享受极限开发节奏的开发者，欢迎与我们交流！
-
+- 团队自部署Blog🚧：https://group-blog-frontend.vercel.app
 - Email: 2509094405@qq.com
 
 <div align="center">
