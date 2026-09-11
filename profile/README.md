@@ -30,6 +30,7 @@
 | [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | 完成最小 MVP |
 | [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 因成本原因夭折，后续计划放到服务器试玩|
 | [*share_platform*] | *组织博客* | 制作第一版样品 | 
+| [*WenJi*](https://github.com/VibingzzZ/WenJi)|*中国软件创新比赛项目*|完成大部分内容，获得省二|
 
 ## 团队博客
 
