@@ -31,6 +31,7 @@
 | [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 因成本原因夭折，后续计划放到服务器试玩|
 | [*share_platform*] | *组织博客* | 制作第一版样品 | 
 | [*WenJi*](https://github.com/VibingzzZ/WenJi)|*中国软件创新比赛项目*|完成大部分内容，获得省二|
+| *Insight Copilot*|暂时无|欧莱雅赛题，正在规划project|
 
 ## 团队博客
 
