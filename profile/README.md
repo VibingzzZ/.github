@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=%E5%A4%87%E8%B5%9B%2F%E5%BC%80%E5%8F%91%E4%B8%AD..." alt="备赛开发中" />
 </div>
 
-> 我们正在紧锣密鼓地筹备 985Fitness 项目...
+> 我们正在紧锣密鼓地筹备 欧莱雅 项目...
 
 ## 项目目录
 
