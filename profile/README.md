@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=%E5%A4%87%E8%B5%9B%2F%E5%BC%80%E5%8F%91%E4%B8%AD..." alt="备赛开发中" />
 </div>
 
-> 我们正在紧锣密鼓地筹备 欧莱雅 项目...
+> 我们正在紧锣密鼓地筹备 综测整理Toy 项目...
 
 ## 项目目录
 
@@ -31,7 +31,7 @@
 | [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 因成本原因夭折，后续计划放到服务器试玩|
 | [*share_platform*] | *组织博客* | 制作第一版样品 | 
 | [*WenJi*](https://github.com/VibingzzZ/WenJi)|*中国软件创新比赛项目*|完成大部分内容，获得省二|
-| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|关于AI客服的辅助服务项目|欧莱雅赛题，进行前后端联调，准备提交文件|
+| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|等待11.8结果|
 
 ## 团队博客
 
@@ -47,7 +47,8 @@
     <td align="center" width="50%">
       <h3>队员 02</h3>
       <p>分享项目经验与成长记录</p>
-      <a href="https://blog.csdn.net/2402_88933804"><strong>访问博客 →</strong></a>
+      <a href="https://blog.csdn.net/2402_88933804"><strong>访问CSDN博客 →</strong></a>
+      <a href="https://blog.csdn.net/2402_88933804"><strong>访问个人博客 →</strong></a>
     </td>
   </tr>
 </table>
@@ -60,6 +61,7 @@
 |比赛平台|比赛网址|主要比赛内容|
 |:--|:---|:--|
 |阿里天池|https://tianchi.aliyun.com|主要是做AI Agent的相关项目，进行一个活动优化|
+|开源之夏||主要是做开源活动，真切的去感受项目PR开发|
 
 ## 加入我们 / 联系我们
 
