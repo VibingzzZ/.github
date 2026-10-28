@@ -26,12 +26,12 @@
 
 | 项目名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | 完成题目的主要要求，落选 |
-| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | 完成最小 MVP |
-| [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 因成本原因夭折，后续计划放到服务器试玩|
-| [*share_platform*] | *组织博客* | 制作第一版样品 | 
+| [*NeoScholar*](https://github.com/VibingzzZ/NeoScholar) | *中国软件杯比赛项目* | 落选 |
+| [*LinguaFlow*](https://github.com/VibingzzZ/LinguaFlow) | *实时同声传译系统* | 落选 |
+| [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 成本原因夭折|
+| [*Intelligent Assessment*] | *关于智能综测自运行整理* | 正在做第一版及产品痛点调研ing | 
 | [*WenJi*](https://github.com/VibingzzZ/WenJi)|*中国软件创新比赛项目*|完成大部分内容，获得省二|
-| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|做赛题一智能辅助客服|等待11.8结果|
+| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|*赛题一智能辅助客服*|等待11.8结果|
 
 ## 团队博客
 
@@ -48,7 +48,7 @@
       <h3>队员 02</h3>
       <p>分享项目经验与成长记录</p>
       <a href="https://blog.csdn.net/2402_88933804"><strong>访问CSDN博客 →</strong></a>
-      <a href="https://blog.csdn.net/2402_88933804"><strong>访问个人博客 →</strong></a>
+      <a href="https://abing3952.cn"><strong>访问个人博客 →</strong></a>
     </td>
   </tr>
 </table>
