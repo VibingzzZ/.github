@@ -31,7 +31,7 @@
 | [*985Fitness*](https://github.com/VibingzzZ/985Fitness-Backend) | *健身小程序* | 成本原因夭折|
 | [*Intelligent Assessment*] | *关于智能综测自运行整理* | 正在做第一版及产品痛点调研ing | 
 | [*WenJi*](https://github.com/VibingzzZ/WenJi)|*中国软件创新比赛项目*|完成大部分内容，获得省二|
-| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|*赛题一智能辅助客服*|等待11.8结果|
+| [*Insight Copilot*](https://github.com/VibingzzZ/InsightCopilot)|*赛题一智能辅助客服*|落选|
 
 ## 团队博客
 
